@@ -1,0 +1,75 @@
+Colour Flip Count:  0 
+
+Colour Flip Count:  0 
+
+BookID: '48' 
+Title: 'Data Structures and Algorithms' 
+Author: 'Sartaj Sahni' 
+Availability: 'Yes'
+Borrowed by: None
+Reservations: []
+
+
+Colour Flip Count:  0 
+
+Colour Flip Count:  3 
+
+Book 48 Borrowed by Patron 120
+
+Colour Flip Count:  3 
+
+Book 101 Borrowed by Patron 132
+
+Colour Flip Count:  3 
+
+Colour Flip Count:  3 
+
+Colour Flip Count:  7 
+
+Colour Flip Count:  10 
+
+Book 48 Reserved by Patron 144
+
+Colour Flip Count:  10 
+
+Book 48 Reserved by Patron 140
+
+Colour Flip Count:  10 
+
+Book 48 Reserved by Patron 142
+
+Colour Flip Count:  10 
+
+Book 12 Borrowed by Patron 138
+
+Colour Flip Count:  10 
+
+Book 12 Reserved by Patron 150
+
+Book 12 Reserved by Patron 162
+
+Book 48 Returned by Patron 120
+
+Book 48 Allotted to Patron 142
+
+BookID: '6' 
+Title: 'Database Management Systems' 
+Author: 'Raghu Ramakrishnan' 
+Availability: 'Yes'
+Borrowed by: None
+Reservations: []
+
+
+BookID: '12' 
+Title: 'Artificial Intelligence: A Modern Approach' 
+Author: 'Stuart Russell' 
+Availability: 'No'
+Borrowed by: 138
+Reservations: [162, 150]
+
+
+Book 12 is no longer available. Reservations made by Patrons 162 , 150 , have been cancelled! 
+
+Colour Flip Count:  10 
+
+Program Terminated!!
